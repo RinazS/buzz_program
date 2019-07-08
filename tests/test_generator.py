@@ -1,6 +1,6 @@
 import unittest
 
-from buzz import generator
+from buzz import generator1
 
 def test_sample_single_word():
     l = ('foo', 'bar', 'foobar')
