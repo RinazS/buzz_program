@@ -1,3 +1,4 @@
+# Get a random message
 from __future__ import print_function
 import random
 
