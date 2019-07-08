@@ -1,2 +1,2 @@
 # buzz_program
-created buzz strings randomly
+Created buzz strings randomly
