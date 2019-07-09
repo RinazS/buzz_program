@@ -1,2 +1,2 @@
 # buzz_program
-Created buzz strings randomly.......!
+Created buzz strings for demo
