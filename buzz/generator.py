@@ -1,4 +1,4 @@
-# Get a random message
+# Get a random message from a list of words
 from __future__ import print_function
 import random
 
