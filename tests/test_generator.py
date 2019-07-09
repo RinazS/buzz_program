@@ -1,3 +1,4 @@
+# unit tests for generator.py
 import unittest
 
 from buzz import generator
